@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+.button {
+    width: 150px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: purple;
+}
