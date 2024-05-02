@@ -7,6 +7,11 @@
     color: white;
 }
 
+.header {
+    display: flex;
+    justify-content: center;
+}
+
 .button {
     width: 150px;
     height: 50px;
@@ -14,4 +19,15 @@
     justify-content: center;
     align-items: center;
     background-color: purple;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.image {
+    width: 600px;
+    height: 500px;
 }
